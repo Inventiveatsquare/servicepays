@@ -40,12 +40,12 @@ const About = () => {
 <div class="container contentarea">
   <div class="row">
 
-  <div class="col-md-6 contentareain">
+  <div class="col-md-5 contentareain">
   <h2 className="gospace11">It’s about helping you say yes</h2>
     <p>Yes to the things that will make your life easier, more fulfilled, and more fun. The interview outfit. The trip of a lifetime. The new mattress for a good night’s sleep.</p>
  </div>
     
-    <div class="col-md-6">
+    <div class="col-md-6 offset-md-1">
       
     <img src="/Frame79.png" className="img-fluid" alt=""/>
  
