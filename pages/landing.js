@@ -85,25 +85,25 @@ for paying overtime</p>
   </div>
   <div class="row  heeaaddsss" >
 
-    <div class="col">
+    <div class="col-md-3 col-sm-12">
         <div class="module">
            <h2>Auto <br/>Repair</h2>
         </div>
     </div>
 
-    <div class="col">
+    <div class="col-md-3 col-sm-12">
         <div class="module1">
         <h2>Home <br/>Improvement</h2>
         </div>
     </div>
 
-    <div class="col">
+    <div class="col-md-3 col-sm-12">
         <div class="module2">
         <h2>Fitness & <br/>Health</h2>
         </div>
     </div>
 
-    <div class="col">
+    <div class="col-md-3 col-sm-12">
         <div class="module3">
             <h2>Beauty &  <br/>Care</h2>
         </div>

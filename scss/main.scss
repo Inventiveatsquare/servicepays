@@ -23,8 +23,14 @@ button
 
     font-family: 'Nunito', sans-serif !important;
 }
+.carousel-indicators .active {
+  background-color: #4640de !important;
+}
 
-
+.txtalign
+{
+  text-align:center;
+}
 .blues
 {
   color:#4640DE;
@@ -2538,16 +2544,44 @@ p
   height: auto;
   padding: 60px 0 0px 0;
 }
-
+.CustomHeading h1 {
+  font-size: 26px !important;
+  line-height: 26px;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 26px;
+}
+section {
+  padding: 60px 0 0 0;
+  overflow: hidden;
+}
 .noborder {
   padding: 5% 0;
 }
+
+.footer-newsletter p {
+  width: 100%;
+  margin: 18px auto;
+}
+
+.module, .module1, .module2, .module3 {
+      margin: 10px 0 0 0px
+    }
 
 .listgon
 {
   background:none !important
 }
 
+.slide img {
+  width: 140px;
+  float: left;
+}
+.CustomHeading p {
+  color: #152332 !important;
+  text-align: center;
+}
 .navbar-light .navbar-toggler {
   border: none;
 }

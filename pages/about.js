@@ -40,8 +40,8 @@ const About = () => {
 <div class="container contentarea">
   <div class="row">
 
-  <div class="col-md-5 contentareain">
-  <h2 className="gospace11">It’s about helping you say yes</h2>
+  <div class="col-md-5  contentareain">
+  <h2 className="gospace12">It’s about helping you say yes</h2>
     <p>Yes to the things that will make your life easier, more fulfilled, and more fun. The interview outfit. The trip of a lifetime. The new mattress for a good night’s sleep.</p>
  </div>
     
@@ -63,15 +63,15 @@ const About = () => {
 <section class="newsection">
 <div class="container contentarea">
   <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-6 offset-md-1">
       
     <img src="/Frame80.jpg" className="img-fluid" alt=""/>
  
 
    
     </div>
-    <div class="col-md-6 contentareain">
-    <h2 className="gospace11">Yes isn’t always easy</h2>
+    <div class="col-md-5 contentareain">
+    <h2 className="gospace12">Yes isn’t always easy</h2>
     <p>When you’re trying to save for the future or meet financial goals, it can seem smarter to put off those bigger purchases. But sometimes, waiting can mean months, or years…or never.</p>
 
    
@@ -87,15 +87,15 @@ const About = () => {
 <div class="container contentarea">
   <div class="row">
 
-  <div class="col-md-6 contentareain">
-  <div class=" spaac">
+  <div class="col-md-5 contentareain">
+  <div class=" spaac ">
     <h1>0% Interest.  </h1>
     <h2 className="spaceok1">More transparent than your credit card</h2>
     <p>We don’t charge fees of any kind—not even late fees. So you’ll never pay more than you expect.</p>
    
     </div> </div>
     
-    <div class="col-md-6">
+    <div class="col-md-6 offset-md-1">
       
     <img src="/Frame81.png" className="img-fluid" alt=""/>
  
@@ -119,9 +119,9 @@ const About = () => {
 <section id="icoss" className="iconss d-flex align-items-center">
   <div className="container">
 
-      <div class="row">
-      <h2>A simple integration. A better way to pay.</h2>
-  <p>No matter what platform your business runs on, getting started with Affirm is easy—and can take as little as an hour.</p>
+      <div class="row txtalign">
+      <h2>Trust is everything, we trust you</h2>
+  <p>You can pay back at your own pace. we beleive you</p>
   
   </div>
     
